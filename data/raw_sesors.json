@@ -1,0 +1,10 @@
+[
+  {"vehicle_id": "CAR-001", "timestamp": "2026-10-13 10:00:00", "speed_kmh": 65.4, "battery_pct": 85, "engine_temp_c": 90.5},
+  {"vehicle_id": "CAR-001", "timestamp": "2026-10-13 10:05:00", "speed_kmh": 72.1, "battery_pct": 84, "engine_temp_c": 92.0},
+  {"vehicle_id": "CAR-001", "timestamp": "2026-10-13 10:10:00", "speed_kmh": -10.0, "battery_pct": 83, "engine_temp_c": 91.0},
+  {"vehicle_id": "CAR-002", "timestamp": "2026-10-13 10:00:00", "speed_kmh": 110.5, "battery_pct": 45, "engine_temp_c": 95.0},
+  {"vehicle_id": "CAR-002", "timestamp": "2026-10-13 10:05:00", "speed_kmh": 350.0, "battery_pct": 44, "engine_temp_c": 130.0},
+  {"vehicle_id": "CAR-002", "timestamp": "2026-10-13 10:10:00", "speed_kmh": null, "battery_pct": 43, "engine_temp_c": 94.5},
+  {"vehicle_id": "CAR-003", "timestamp": "2026-10-13 10:00:00", "speed_kmh": 50.0, "battery_pct": 98, "engine_temp_c": 88.0},
+  {"vehicle_id": "CAR-003", "timestamp": "2026-10-13 10:05:00", "speed_kmh": 55.2, "battery_pct": 97, "engine_temp_c": 89.2}
+]
